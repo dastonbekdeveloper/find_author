@@ -34,8 +34,4 @@ Model log_loss va Confusion Matrix orqali test qilindi.
 ## 📋 GitHub
 Ushbu loyiha GitHub'da mavjud: [GitHub Repository](https://github.com/dastonbekdeveloper/find_author)
 
----
 
-Agar sizga `README.md` faylini ham `.md` formatida berishimni xohlasangiz, bemalol ayting — hammasini tayyorlab beraman. Tayyor GUI faylni ham `.py` holida chiqarib berishim mumkin.
-
-Yana qanday yordam bera olay?
